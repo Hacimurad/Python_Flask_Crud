@@ -1,0 +1,25 @@
+.require {
+    color: #666;
+}
+label small {
+    color: #999;
+    font-weight: normal;
+}
+.col-8{
+    background-color: aqua;
+}
+.col-6 table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+.col-6  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+.col-6  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
